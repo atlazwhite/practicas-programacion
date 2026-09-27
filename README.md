@@ -33,10 +33,10 @@ Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con 
 
 ### 🎨 Frontend
 
-1. **Calculadora de Propinas / Presupuesto:** Cálculo en tiempo real a partir de entradas numéricas
-2. **Conversor de Unidades Interactivo:** Conversión fluida de temperaturas o divisas ficticias
-3. **Simulador de Promedio de Notas:** Procesamiento de calificaciones y cambio de estados visuales
-4. **Generador de Memes / Frases:** Manipulación de texto y atributos de imagen en el DOM
+1. [**Calculadora de Propinas / Presupuesto:** Cálculo en tiempo real a partir de entradas numéricas](./frontend/01-calculadora-propinas/PROBLEM.md)
+2. [**Conversor de Unidades Interactivo:** Conversión fluida de temperaturas o divisas ficticias](./frontend/02-conversor-unidades/PROBLEM.md)
+3. [**Simulador de Promedio de Notas:** Procesamiento de calificaciones y cambio de estados visuales](./frontend/03-promedio-notas/PROBLEM.md)
+4. [**Generador de Memes / Frases:** Manipulación de texto y atributos de imagen en el DOM](./frontend/04-generador-memes/PROBLEM.md)
 
 ### ⚙️ Backend
 
