@@ -16,13 +16,19 @@ El proyecto se organiza en dos áreas principales:
 │   ├── 01-calculadora-propinas/
 │   ├── 02-conversor-unidades/
 │   ├── 03-promedio-notas/
-│   └── 04-generador-memes/
+│   ├── 04-generador-memes/
+│   ├── 05-contador-clics-temporizador/
+│   ├── 06-galeria-reproductor-imagenes/
+│   └── 07-lista-tareas-ultra-simple/
 │
 └── backend/        # Ejercicios en C, C++, Java, Rust, Python,... (el que quieras)
     ├── 01-analizador-cifrado-cesar/
     ├── 02-inversor-palindromos/
     ├── 03-histograma-vocales/
-    └── 04-generador-contrasenas/
+    ├── 04-generador-contrasenas/
+    ├── 05-simulador-dado-moneda/
+    ├── 06-tablas-multiplicar-formateadas/
+    └── 07-conversor-tiempo-segundos/
 ```
 
 Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con la explicación detallada del reto y una carpeta `solutions/` con las contribuciones de los estudiantes.
@@ -37,13 +43,19 @@ Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con 
 2. [**Conversor de Unidades Interactivo:** Conversión fluida de temperaturas o divisas ficticias](./frontend/02-conversor-unidades/PROBLEM.md)
 3. [**Simulador de Promedio de Notas:** Procesamiento de calificaciones y cambio de estados visuales](./frontend/03-promedio-notas/PROBLEM.md)
 4. [**Generador de Memes / Frases:** Manipulación de texto y atributos de imagen en el DOM](./frontend/04-generador-memes/PROBLEM.md)
+5. [**Contador de Clics con Temporizador:** Uso de eventos de tiempo (`setInterval`) y conteo de clics](./frontend/05-contador-clics-temporizador/PROBLEM.md)
+6. [**Galería / Reproductor de Imágenes:** Manejo de arreglos e índice dinámico para cambiar el `src`](./frontend/06-galeria-reproductor-imagenes/PROBLEM.md)
+7. [**Lista de Tareas Ultra Simple:** Creación dinámica de elementos del DOM (`createElement` / `appendChild`)](./frontend/07-lista-tareas-ultra-simple/PROBLEM.md)
 
 ### ⚙️ Backend
 
-1. [**Analizador de Texto y Cifrado César:** Manipulación de caracteres y desplazamientos ASCII](./frontend/01-calculadora-propinas/PROBLEM.md)
-2. [**Inversor de Cadenas y Detector de Palíndromos:** Recorrido inverso de arreglos e índices](./frontend/02-conversor-unidades/PROBLEM.md)
-3. [**Histograma de Vocales:** Conteo y representación gráfica simple mediante caracteres](./frontend/03-promedio-notas/PROBLEM.md)
-4. [**Generador de Contraseñas Seguras:** Selección aleatoria dentro de tablas ASCII/conjuntos](./frontend/04-generador-memes/PROBLEM.md)
+1. [**Analizador de Texto y Cifrado César:** Manipulación de caracteres y desplazamientos ASCII](./backend/01-calculadora-propinas/PROBLEM.md)
+2. [**Inversor de Cadenas y Detector de Palíndromos:** Recorrido inverso de arreglos e índices](./backend/02-conversor-unidades/PROBLEM.md)
+3. [**Histograma de Vocales:** Conteo y representación gráfica simple mediante caracteres](./backend/03-promedio-notas/PROBLEM.md)
+4. [**Generador de Contraseñas Seguras:** Selección aleatoria dentro de tablas ASCII/conjuntos](./backend/04-generador-memes/PROBLEM.md)
+5. [**Simulador de Dado / Moneda:** Uso de funciones aleatorias y condicionales simples](./backend/05-simulador-dado-moneda/PROBLEM.md)
+6. [**Tablas de Multiplicar Formateadas:** Iteración con bucles `for` y salida alineada por consola](./backend/06-tablas-multiplicar-formateadas/PROBLEM.md)
+7. [**Conversor de Tiempo a Segundos:** Operadores aritméticos de división entera y módulo (`%`)](./backend/07-conversor-tiempo-segundos/PROBLEM.md)
 
 ---
 
