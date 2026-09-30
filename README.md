@@ -40,10 +40,10 @@ Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con 
 
 ### ⚙️ Backend
 
-1. [**Analizador de Texto y Cifrado César:** Manipulación de caracteres y desplazamientos ASCII](./frontend/01-calculadora-propinas/PROBLEM.md)
-2. [**Inversor de Cadenas y Detector de Palíndromos:** Recorrido inverso de arreglos e índices](./frontend/02-conversor-unidades/PROBLEM.md)
-3. [**Histograma de Vocales:** Conteo y representación gráfica simple mediante caracteres](./frontend/03-promedio-notas/PROBLEM.md)
-4. [**Generador de Contraseñas Seguras:** Selección aleatoria dentro de tablas ASCII/conjuntos](./frontend/04-generador-memes/PROBLEM.md)
+1. [**Analizador de Texto y Cifrado César:** Manipulación de caracteres y desplazamientos ASCII](./backend/01-calculadora-propinas/PROBLEM.md)
+2. [**Inversor de Cadenas y Detector de Palíndromos:** Recorrido inverso de arreglos e índices](./backend/02-conversor-unidades/PROBLEM.md)
+3. [**Histograma de Vocales:** Conteo y representación gráfica simple mediante caracteres](./backend/03-promedio-notas/PROBLEM.md)
+4. [**Generador de Contraseñas Seguras:** Selección aleatoria dentro de tablas ASCII/conjuntos](./backend/04-generador-memes/PROBLEM.md)
 
 ---
 
