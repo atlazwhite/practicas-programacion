@@ -55,6 +55,8 @@ Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con 
 8. [**Medidor de Fuerza de Contraseña:** Validación de longitud/caracteres y cambio de barra visual de progreso](./frontend/08-medidor-fuerza-contrasena/PROBLEM.md)
 9. [**Generador de Colores Hexadecimales:** Generación aleatoria de valores HEX y actualización de `style.backgroundColor`](./frontend/09-generador-colores-hex/PROBLEM.md)
 10. [**Reloj Digital Simple:** Manejo del objeto nativo `Date` y refresco con `setInterval`](./frontend/10-reloj-digital-simple/PROBLEM.md)
+11. [**Calculadora de Área y Perímetro de Rectángulo:** Fórmulas matemáticas sencillas en tiempo real con inputs del DOM](./frontend/11-calculadora-area-perimetro-rectangulo/PROBLEM.md)
+12. [**Generador de Secuencia de Fibonacci Visual:** Lógica de sucesiones numéricas integrada con renderizado de cajas CSS](./frontend/12-generador-secuencia-fibonacci-visual/PROBLEM.md)
 
 ### ⚙️ Backend
 
@@ -68,6 +70,8 @@ Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con 
 8. [**Verificador de Año Bisiesto:** Evaluación condicional con operadores lógicos combinados (`&&`, `||`)](./backend/08-verificador-anio-bisiesto/PROBLEM.md)
 9. [**Contador de Palabras y Análisis de Frase:** Separación de cadenas, conteo e identificación de máximos](./backend/09-contador-palabras-frase/PROBLEM.md)
 10. [**Calculadora de Descuentos e Impuestos:** Operaciones aritméticas con decimales (`float`/`double`) y formato](./backend/10-calculadora-descuentos-impuestos/PROBLEM.md)
+11. [**Clasificador de Números Pares e Impares:** Operador módulo (`% 2`), contadores y acumuladores de suma](./backend/11-clasificador-numeros-pares-impares/PROBLEM.md)
+12. [**Verificador de Números Primos y Divisores:** Iteración básica con bucles `for` y conteo de divisibilidad](./backend/12-verificador-numeros-primos-basico/PROBLEM.md)
 
 ---
 
