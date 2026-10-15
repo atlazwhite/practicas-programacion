@@ -6,41 +6,6 @@ Este espacio está diseñado como un **punto de encuentro y aprendizaje colabora
 
 ---
 
-## 📂 Estructura del Repositorio
-
-El proyecto se organiza en dos áreas principales:
-
-```text
-.
-├── frontend/       # Proyectos en HTML, CSS y JavaScript (sin librerías ni frameworks)
-│   ├── 01-calculadora-propinas/
-│   ├── 02-conversor-unidades/
-│   ├── 03-promedio-notas/
-│   ├── 04-generador-memes/
-│   ├── 05-contador-clics-temporizador/
-│   ├── 06-galeria-reproductor-imagenes/
-│   ├── 07-lista-tareas-ultra-simple/
-│   ├── 08-medidor-fuerza-contrasena/
-│   ├── 09-generador-colores-hex/
-│   └── 10-reloj-digital-simple/
-│
-└── backend/        # Ejercicios en C, C++, Java, Rust, Python,... (el que quieras)
-    ├── 01-analizador-cifrado-cesar/
-    ├── 02-inversor-palindromos/
-    ├── 03-histograma-vocales/
-    ├── 04-generador-contrasenas/
-    ├── 05-simulador-dado-moneda/
-    ├── 06-tablas-multiplicar-formateadas/
-    ├── 07-conversor-tiempo-segundos/
-    ├── 08-verificador-anio-bisiesto/
-    ├── 09-contador-palabras-frase/
-    └── 10-calculadora-descuentos-impuestos/
-```
-
-Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con la explicación detallada del reto y una carpeta `solutions/` con las contribuciones de los estudiantes.
-
----
-
 ## 🎯 Proyectos Disponibles
 
 ### 🎨 Frontend
@@ -72,6 +37,59 @@ Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con 
 10. [**Calculadora de Descuentos e Impuestos:** Operaciones aritméticas con decimales (`float`/`double`) y formato](./backend/10-calculadora-descuentos-impuestos/PROBLEM.md)
 11. [**Clasificador de Números Pares e Impares:** Operador módulo (`% 2`), contadores y acumuladores de suma](./backend/11-clasificador-numeros-pares-impares/PROBLEM.md)
 12. [**Verificador de Números Primos y Divisores:** Iteración básica con bucles `for` y conteo de divisibilidad](./backend/12-verificador-numeros-primos-basico/PROBLEM.md)
+
+---
+
+## 📂 Estructura del Repositorio
+
+El proyecto se organiza en dos áreas principales:
+
+```text
+.
+├── backend/
+│   ├── 01-analizador-cifrado-cesar/
+│   ├── 02-inversor-palindromos/
+│   ├── 03-histograma-vocales/
+│   ├── 04-generador-contrasenas/
+│   ├── 05-simulador-dado-moneda/
+│   ├── 06-tablas-multiplicar-formateadas/
+│   ├── 07-conversor-tiempo-segundos/
+│   ├── 08-verificador-anio-bisiesto/
+│   ├── 09-contador-palabras-frase/
+│   ├── 10-calculadora-descuentos-impuestos/
+│   ├── 11-clasificador-numeros-pares-impare/
+│   └── 12-verificador-numeros-primos-basico/
+├── frontend/
+│   ├── 01-calculadora-propinas/
+│   ├── 02-conversor-unidades/
+│   ├── 03-promedio-notas/
+│   ├── 04-generador-memes/
+│   ├── 05-contador-clics-temporizador/
+│   ├── 06-galeria-reproductor-imagenes/
+│   ├── 07-lista-tareas-ultra-simple/
+│   ├── 08-medidor-fuerza-contrasena/
+│   ├── 09-generador-colores-hex/
+│   ├── 10-reloj-digital-simple/
+│   ├── 11-calculadora-area-perimetro-rectangulo/
+│   └── 12-generador-secuencia-fibonacci-visual/
+└── README.md
+```
+
+Dentro de cada directorio de ejercicio encontrarás un archivo `PROBLEM.md` con la explicación detallada del reto y una carpeta `solutions/` con las contribuciones de los estudiantes.
+
+```text
+.
+├── backend/
+│   ├── ...
+│   ├── 05-simulador-dado-moneda/
+│   │   ├── PROBLEM.md
+│   │   └── solutions/
+│   │       └── <aquí la carpeta con tu nombre de usuario>/
+│   │           ├── simulador-dado-moneda.c
+│   │           ├── simulador-dado-moneda.py
+│   │           └── (resuelve con el lenguaje que desees)
+│   ├── ...
+```
 
 ---
 
