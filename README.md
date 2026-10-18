@@ -22,6 +22,8 @@ Este espacio está diseñado como un **punto de encuentro y aprendizaje colabora
 10. [**Reloj Digital Simple:** Manejo del objeto nativo `Date` y refresco con `setInterval`](./frontend/10-reloj-digital-simple/PROBLEM.md)
 11. [**Calculadora de Área y Perímetro de Rectángulo:** Fórmulas matemáticas sencillas en tiempo real con inputs del DOM](./frontend/11-calculadora-area-perimetro-rectangulo/PROBLEM.md)
 12. [**Generador de Secuencia de Fibonacci Visual:** Lógica de sucesiones numéricas integrada con renderizado de cajas CSS](./frontend/12-generador-secuencia-fibonacci-visual/PROBLEM.md)
+13. [**Planificador de Ahorro Mensual:** Cálculo de tiempo de meta según porcentajes e ingresos en el DOM](./frontend/13-planificador-ahorro-mensual/PROBLEM.md)
+14. [**Rastreador de Gastos por Categoria:** Descuento de presupuesto y alertas de estado en CSS/JS](./frontend/14-rastreador-gastos-categoria-presupuesto/PROBLEM.md)
 
 ### ⚙️ Backend
 
@@ -37,6 +39,8 @@ Este espacio está diseñado como un **punto de encuentro y aprendizaje colabora
 10. [**Calculadora de Descuentos e Impuestos:** Operaciones aritméticas con decimales (`float`/`double`) y formato](./backend/10-calculadora-descuentos-impuestos/PROBLEM.md)
 11. [**Clasificador de Números Pares e Impares:** Operador módulo (`% 2`), contadores y acumuladores de suma](./backend/11-clasificador-numeros-pares-impares/PROBLEM.md)
 12. [**Verificador de Números Primos y Divisores:** Iteración básica con bucles `for` y conteo de divisibilidad](./backend/12-verificador-numeros-primos-basico/PROBLEM.md)
+13. [**Simulador de Alcancía de Monedas:** Bucle `while` con bandera de salida y acumulador numérico](./backend/13-simulador-alcancia-monedas/PROBLEM.md)
+14. [**Calculadora de Regla Financiera 50/30/20:** Distribución porcentual sobre ingresos e impresión de montos](./backend/14-calculadora-regla-finanzas-50-30-20/PROBLEM.md)
 
 ---
 
@@ -57,8 +61,10 @@ El proyecto se organiza en dos áreas principales:
 │   ├── 08-verificador-anio-bisiesto/
 │   ├── 09-contador-palabras-frase/
 │   ├── 10-calculadora-descuentos-impuestos/
-│   ├── 11-clasificador-numeros-pares-impare/
-│   └── 12-verificador-numeros-primos-basico/
+│   ├── 11-clasificador-numeros-pares-impares/
+│   ├── 12-verificador-numeros-primos-basico/
+│   ├── 13-simulador-alcancia-monedas/
+│   └── 14-calculadora-regla-finanzas-50-30-20/
 ├── frontend/
 │   ├── 01-calculadora-propinas/
 │   ├── 02-conversor-unidades/
@@ -71,7 +77,9 @@ El proyecto se organiza en dos áreas principales:
 │   ├── 09-generador-colores-hex/
 │   ├── 10-reloj-digital-simple/
 │   ├── 11-calculadora-area-perimetro-rectangulo/
-│   └── 12-generador-secuencia-fibonacci-visual/
+│   ├── 12-generador-secuencia-fibonacci-visual/
+│   ├── 13-planificador-ahorro-mensual/
+│   └── 14-rastreador-gastos-categoria-presupuesto/
 └── README.md
 ```
 
