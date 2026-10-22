@@ -24,6 +24,8 @@ Este espacio está diseñado como un **punto de encuentro y aprendizaje colabora
 12. [**Generador de Secuencia de Fibonacci Visual:** Lógica de sucesiones numéricas integrada con renderizado de cajas CSS](./frontend/12-generador-secuencia-fibonacci-visual/PROBLEM.md)
 13. [**Planificador de Ahorro Mensual:** Cálculo de tiempo de meta según porcentajes e ingresos en el DOM](./frontend/13-planificador-ahorro-mensual/PROBLEM.md)
 14. [**Rastreador de Gastos por Categoria:** Descuento de presupuesto y alertas de estado en CSS/JS](./frontend/14-rastreador-gastos-categoria-presupuesto/PROBLEM.md)
+15. [**Validador de Formato de Correo:** Comprobación de patrones de texto y cambio de clases visuales en el DOM](./frontend/15-validador-formato-correo/PROBLEM.md)
+16. [**Formateador de Números (Tarjeta/Teléfono):** Manipulación e inserción de separadores en tiempo real](./frontend/16-formateador-numero-tarjeta-telefono/PROBLEM.md)
 
 ### ⚙️ Backend
 
@@ -41,6 +43,8 @@ Este espacio está diseñado como un **punto de encuentro y aprendizaje colabora
 12. [**Verificador de Números Primos y Divisores:** Iteración básica con bucles `for` y conteo de divisibilidad](./backend/12-verificador-numeros-primos-basico/PROBLEM.md)
 13. [**Simulador de Alcancía de Monedas:** Bucle `while` con bandera de salida y acumulador numérico](./backend/13-simulador-alcancia-monedas/PROBLEM.md)
 14. [**Calculadora de Regla Financiera 50/30/20:** Distribución porcentual sobre ingresos e impresión de montos](./backend/14-calculadora-regla-finanzas-50-30-20/PROBLEM.md)
+15. [**Validador de Hora (Formatos 24h):** Extracción de subcadenas, conversión numérica y chequeo de rangos](./backend/15-validador-formato-hora-24h/PROBLEM.md)
+16. [**Limpiador y Capitalizador de Nombres:** Recorrido de cadenas, eliminación de espacios y modificación mayúscula/minúscula](./backend/16-limpiador-capitalizador-nombres/PROBLEM.md)
 
 ---
 
@@ -64,7 +68,9 @@ El proyecto se organiza en dos áreas principales:
 │   ├── 11-clasificador-numeros-pares-impares/
 │   ├── 12-verificador-numeros-primos-basico/
 │   ├── 13-simulador-alcancia-monedas/
-│   └── 14-calculadora-regla-finanzas-50-30-20/
+│   ├── 14-calculadora-regla-finanzas-50-30-20/
+│   ├── 15-validador-formato-hora-24h/
+│   └── 16-limpiador-capitalizador-nombres/
 ├── frontend/
 │   ├── 01-calculadora-propinas/
 │   ├── 02-conversor-unidades/
@@ -79,7 +85,9 @@ El proyecto se organiza en dos áreas principales:
 │   ├── 11-calculadora-area-perimetro-rectangulo/
 │   ├── 12-generador-secuencia-fibonacci-visual/
 │   ├── 13-planificador-ahorro-mensual/
-│   └── 14-rastreador-gastos-categoria-presupuesto/
+│   ├── 14-rastreador-gastos-categoria-presupuesto/
+│   ├── 15-validador-formato-correo/
+│   └── 16-formateador-numero-tarjeta-telefono/
 └── README.md
 ```
 
